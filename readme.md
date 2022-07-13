@@ -1,0 +1,1 @@
+The script will give list of assets which are not communicating to Qualys platform.
